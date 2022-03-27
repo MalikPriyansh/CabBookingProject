@@ -1,0 +1,120 @@
+.nav{
+    background-color: #203239;
+    font-size: 20px;
+    color:#EEEDDE;
+}
+
+
+.slider{
+    margin-top: 100px;
+    height: 300px;
+    background-color: #203239;
+}
+.place{
+    background-color: white;
+    height: 100px;
+    border-radius: 10px;
+}
+.place1{
+    background-color: white;
+    height: 100px;
+    border-radius: 10px;
+    margin-left: 20px;
+    width: 200px;
+}
+
+h3{
+    margin-top: 80px;
+    text-align: center;
+    color: #203239;
+    margin-bottom: 50px;
+}
+
+.def{
+    color: white;
+    font-size: 30px;
+    margin-top: 50px;
+    margin-left: 120px;
+}
+
+.me{
+    margin-left: 560px;
+}
+.mr{
+    margin-left: 30px;
+}
+.text{
+    font-size: 40px;
+    margin-left: 10px;
+    color: #EEEDDE;
+}
+
+.t1{
+    color: #EEEDDE;
+}
+
+.area{
+    height: 500px;
+    width: 100%;
+    background-color: #203239;
+    padding-top: 150px;
+    color: #EEEDDE;
+    text-align: center;
+}
+h1{
+    color:#EEEDDE;
+}
+
+.icon{
+    margin-top: 50px;
+    font-size: 40px;
+}
+
+.mr2{
+    margin-left: 140px;
+}
+
+.me2{
+    margin-left: 80px;
+}
+
+.mt{
+    margin-right: 50px;
+}
+
+p{
+    font-weight: 500;
+    color: grey;
+}
+
+.img{
+    margin-top: 100px;
+}
+
+h2{
+    color: #203239;
+    margin-top: 180px;
+    font-weight: 700;
+}
+
+.footer{
+    height: 400px;
+    background-color: #789395;
+    padding-top: 50px;
+    padding-left: 130px;
+    margin-top: 50px;
+}
+
+.book{
+    margin-top: 100px;
+    color: #203239;
+    text-align: center;
+}
+
+.input{
+    border-radius: 100px;
+    margin-top: 40px;
+    border-color: black;
+    padding: 20px 100px;
+    font-size: 20px;
+}
